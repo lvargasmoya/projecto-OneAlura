@@ -1,7 +1,8 @@
 test("Prueba de suma", () => {
-  const a = 1;
-  const b = 2;
-  const resultado = a + b;
+  const a = 600;
+  const b = 60;
+  const c = 6;
+  const resultado = a + b + c;
 
-  expect(resultado).toBe();
+  expect(resultado).toBe(666);
 });
