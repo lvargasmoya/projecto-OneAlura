@@ -1,7 +1,7 @@
 {
   "name": "devops-ci-cd-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ensure you have install jest globally or locally.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^28.1.0"
-  }
+  },
+  "keywords": []
 }
